@@ -1,1 +1,1 @@
-# E-Book-Reader-TSC
+# E-Book-Reader-TSC - Bulgaru Alexandra 331CD
