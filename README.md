@@ -44,6 +44,7 @@
 | Rezistenta 2K | [Cumpara](https://ro.mouser.com/ProductDetail/Vishay-Beyschlag/MCS04020C2001FE000?qs=wTZ%2FFzl837YG0wIkZJJOwQ%3D%3D) | [Datasheet](https://www.vishay.com/doc?28705) |
 | Rezistenta 0.47 | [Cumpara](https://ro.mouser.com/ProductDetail/SEI-Stackpole/CSR0402JKR470?qs=IPgv5n7u5QawIB6nBEt8wA%3D%3D) | [Datasheet](https://ro.mouser.com/datasheet/2/385/SEI_CSR_CSRN-3077593.pdf) |
 | Rezistenta 15 | [Cumpara](https://ro.mouser.com/ProductDetail/YAGEO/RT0402FRE0715RL?qs=BXCcY9r%252B08DFFpLSkPOIqQ%3D%3D) | [Datasheet](https://ro.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_15-3461507.pdf) |
+| SJ | [Cumpara](https://grabcad.com/library/solder-jumpers-1) | [Datasheet](https://docs.rs-online.com/6fae/A700000010766261.pdf)
 
 ## Functionalitatea Hardware
 #### Alimentare & Baterie:
